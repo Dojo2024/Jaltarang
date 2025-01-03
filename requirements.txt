@@ -1,0 +1,16 @@
+streamlit
+pandas
+folium
+streamlit-folium
+sqlite3
+plotly
+numpy
+maritime-zone-manager
+fitz
+langchain-community
+HuggingFaceEmbeddings
+pydantic-core
+groq
+python-dotenv
+logging
+embedb
